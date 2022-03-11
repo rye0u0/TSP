@@ -1,6 +1,7 @@
 {
-"name": "No Fee Japan Pool",
-"description": "日本人エンジニアが運用する最低手数料、高可用性、高セキュリティを特徴としたステーキングプールです。確実にブロック生成できるようサーバスペックは、全て8コアCPU／16GBメモリで運用しております。",
-"ticker": "0FEEJ",
-"homepage": ""
+"name": "WOOD Pool | Margin 0% 手数料 0%",
+"description": "Margin 0% 手数料 0%",
+"ticker": "WOODY",
+"homepage": "https://ada-woodpool.com",
+"extended": "https://raw.githubusercontent.com/rye0u0/TSP/dd8e7b8970343e01a28fe7021eb066f2bbd099fe/Extended"
 }
